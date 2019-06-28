@@ -3,11 +3,12 @@
   <groupId>cn.jgayb</groupId>
   <artifactId>tk-mybatis-service</artifactId>
   <versioning>
-    <release>1.2-RELEASE</release>
+    <release>1.3-RELEASE</release>
     <versions>
       <version>1.1-RELEASE</version>
       <version>1.2-RELEASE</version>
+      <version>1.3-RELEASE</version>
     </versions>
-    <lastUpdated>20190628031409</lastUpdated>
+    <lastUpdated>20190628032638</lastUpdated>
   </versioning>
 </metadata>
