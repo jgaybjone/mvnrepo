@@ -3,10 +3,11 @@
   <groupId>cn.jgayb</groupId>
   <artifactId>mybatis-service</artifactId>
   <versioning>
-    <release>1.1-RELEASE</release>
+    <release>1.2-RELEASE</release>
     <versions>
       <version>1.1-RELEASE</version>
+      <version>1.2-RELEASE</version>
     </versions>
-    <lastUpdated>20190628025344</lastUpdated>
+    <lastUpdated>20190628031406</lastUpdated>
   </versioning>
 </metadata>
